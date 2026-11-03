@@ -1,0 +1,38 @@
+{
+  "kind": "reviewed-source-snapshot",
+  "upstream_repository": "https://github.com/shuakami/qq-chat-exporter",
+  "upstream_commit": "4ae4b700939346b46b05b46346fb5c5c5f08b081",
+  "local_modified_or_added_sources": [
+    ".gitignore",
+    "plugins/qq-chat-exporter/__tests__/unit/rustBridge.test.ts",
+    "plugins/qq-chat-exporter/runtime/rustBridge.mjs",
+    "qce-v4-tool/app/layout.tsx",
+    "qce-v4-tool/package.json",
+    "qce-v4-tool/pnpm-lock.yaml",
+    "qq-chat-export-server/Cargo.lock",
+    "qq-chat-export-server/src/api/routes/messages/roaming_export/tests.rs",
+    "qq-chat-export-server/src/main.rs",
+    "qq-chat-export-server/src/napcat/client.rs"
+  ],
+  "excluded_upstream_paths": [
+    ".github/workflows/build-installer.yml",
+    ".github/workflows/build-plugin.yml",
+    ".github/workflows/build-uninstaller.yml",
+    ".github/workflows/comment-pr-artifact.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/release-plugin.yml",
+    ".github/workflows/test-installer.yml",
+    ".github/workflows/test-plugin.yml",
+    ".github/workflows/update-index.yml",
+    "plugins/qq-chat-exporter/.napcat-src"
+  ],
+  "original_license": "GPL-3.0-only",
+  "publication_changes": [
+    "source-only README and provenance",
+    "privacy policy and staged-content checks",
+    "ignore private/generated artifacts",
+    "replace upstream release workflows with privacy CI"
+  ],
+  "snapshot_date": "2026-11-03",
+  "snapshot_maintainer": "Moraphia"
+}

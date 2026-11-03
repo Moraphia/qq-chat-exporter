@@ -1,0 +1,447 @@
+{
+  "upstream_repository": "https://github.com/shuakami/qq-chat-exporter",
+  "upstream_commit": "4ae4b700939346b46b05b46346fb5c5c5f08b081",
+  "public_matches": [
+    {
+      "path": "docs/linux-deploy.md",
+      "rule": "home-path",
+      "digest": "559d60d15a6ef0b70069618566f616a8ffe1f6acb218a8364d587fba86836d69"
+    },
+    {
+      "path": "docs/linux-deploy.md",
+      "rule": "home-path",
+      "digest": "559d60d15a6ef0b70069618566f616a8ffe1f6acb218a8364d587fba86836d69"
+    },
+    {
+      "path": "docs/linux-deploy.md",
+      "rule": "home-path",
+      "digest": "559d60d15a6ef0b70069618566f616a8ffe1f6acb218a8364d587fba86836d69"
+    },
+    {
+      "path": "docs/linux-deploy.md",
+      "rule": "home-path",
+      "digest": "559d60d15a6ef0b70069618566f616a8ffe1f6acb218a8364d587fba86836d69"
+    },
+    {
+      "path": "docs/roaming-api.md",
+      "rule": "home-path",
+      "digest": "f7c800031ae8e05a636cf2907e0fcd8935782272cb8359d304cf79d406ee330d"
+    },
+    {
+      "path": "installer/src-tauri/Cargo.toml",
+      "rule": "email",
+      "digest": "d87abef66af610d6f6d5f57dc7884df7af7846ab573bc2ece2875b62fbc23d57"
+    },
+    {
+      "path": "public/docs/linux-deploy.html",
+      "rule": "home-path",
+      "digest": "559d60d15a6ef0b70069618566f616a8ffe1f6acb218a8364d587fba86836d69"
+    },
+    {
+      "path": "public/docs/linux-deploy.html",
+      "rule": "home-path",
+      "digest": "559d60d15a6ef0b70069618566f616a8ffe1f6acb218a8364d587fba86836d69"
+    },
+    {
+      "path": "public/docs/linux-deploy.html",
+      "rule": "home-path",
+      "digest": "559d60d15a6ef0b70069618566f616a8ffe1f6acb218a8364d587fba86836d69"
+    },
+    {
+      "path": "public/docs/linux-deploy.html",
+      "rule": "home-path",
+      "digest": "559d60d15a6ef0b70069618566f616a8ffe1f6acb218a8364d587fba86836d69"
+    },
+    {
+      "path": "public/index.html",
+      "rule": "home-path",
+      "digest": "fe0796cd9675564bd6ad63271cee18012733a3be9a83b1a55f1da0cfb0f9b8c5"
+    },
+    {
+      "path": "public/index.html",
+      "rule": "home-path",
+      "digest": "aeb8e2ba60654cd0e7bca60bcebe5162976c1a1e8ef2ac141dc0fba42da5d4fa"
+    },
+    {
+      "path": "qce-chunked-viewer/src/hyperscroll/types.ts",
+      "rule": "home-path",
+      "digest": "21c1a31f6b1457883bb4746dc3817e73c95940793da9ee29c0284dce0bf4fdd2"
+    },
+    {
+      "path": "qce-v4-tool/components/ui/qq-lookup-card.tsx",
+      "rule": "home-path",
+      "digest": "f7c800031ae8e05a636cf2907e0fcd8935782272cb8359d304cf79d406ee330d"
+    },
+    {
+      "path": "qce-v4-tool/components/ui/qq-lookup-card.tsx",
+      "rule": "home-path",
+      "digest": "f7c800031ae8e05a636cf2907e0fcd8935782272cb8359d304cf79d406ee330d"
+    },
+    {
+      "path": "qce-v4-tool/components/ui/session-list.tsx",
+      "rule": "home-path",
+      "digest": "f7c800031ae8e05a636cf2907e0fcd8935782272cb8359d304cf79d406ee330d"
+    },
+    {
+      "path": "qce-v4-tool/e2e/ui-smoke.spec.ts",
+      "rule": "home-path",
+      "digest": "f7c800031ae8e05a636cf2907e0fcd8935782272cb8359d304cf79d406ee330d"
+    },
+    {
+      "path": "qq-chat-export-server/src/api/http_security.rs",
+      "rule": "credential-url",
+      "digest": "f8c7f2987069485166a19282090fd6bfda8b12c5ccf46c99846068ed92369f32"
+    },
+    {
+      "path": "qq-chat-export-server/src/api/routes/resources.rs",
+      "rule": "home-path",
+      "digest": "a9e5427d4d85e452bf6385b0d3091956368351102cac74abe91bb99d265ad308"
+    },
+    {
+      "path": "qq-chat-export-server/src/api/routes/resources.rs",
+      "rule": "home-path",
+      "digest": "a9e252adf0dda14bdcafeee2a17da17f4e37037f0c764778fd3bd5faecf87eb3"
+    },
+    {
+      "path": "qq-chat-export-server/src/api/routes/resources.rs",
+      "rule": "home-path",
+      "digest": "a9e252adf0dda14bdcafeee2a17da17f4e37037f0c764778fd3bd5faecf87eb3"
+    },
+    {
+      "path": "qq-chat-export-server/src/api/routes/roaming.rs",
+      "rule": "home-path",
+      "digest": "f7c800031ae8e05a636cf2907e0fcd8935782272cb8359d304cf79d406ee330d"
+    },
+    {
+      "path": "qq-chat-export-server/src/api/routes/system.rs",
+      "rule": "home-path",
+      "digest": "f7c800031ae8e05a636cf2907e0fcd8935782272cb8359d304cf79d406ee330d"
+    },
+    {
+      "path": "qq-chat-export-server/src/api/routes/system.rs",
+      "rule": "home-path",
+      "digest": "c8c2cca42e13d321a0047c6d36ee685f753fb13559c0a9a6aa80cb070d4b8b37"
+    },
+    {
+      "path": "qq-chat-export-server/src/api/routes/users.rs",
+      "rule": "home-path",
+      "digest": "f7c800031ae8e05a636cf2907e0fcd8935782272cb8359d304cf79d406ee330d"
+    },
+    {
+      "path": "qq-chat-export-server/src/api/routes/users.rs",
+      "rule": "home-path",
+      "digest": "82d57d754666215145e5adf88c091f1908d91cad419d26a75b34ecb347a5700a"
+    },
+    {
+      "path": "qq-chat-export-server/src/main.rs",
+      "rule": "home-path",
+      "digest": "f7c800031ae8e05a636cf2907e0fcd8935782272cb8359d304cf79d406ee330d"
+    },
+    {
+      "path": "qq-chat-export-server/src/main.rs",
+      "rule": "home-path",
+      "digest": "c8c2cca42e13d321a0047c6d36ee685f753fb13559c0a9a6aa80cb070d4b8b37"
+    },
+    {
+      "path": "qq-chat-export-server/src/paths/mod.rs",
+      "rule": "home-path",
+      "digest": "b98d692c4574a80e508cf6fa38e6f27ae5348e616448edaa7fe675e363669fd2"
+    },
+    {
+      "path": "uninstaller/src-tauri/Cargo.toml",
+      "rule": "email",
+      "digest": "d87abef66af610d6f6d5f57dc7884df7af7846ab573bc2ece2875b62fbc23d57"
+    },
+    {
+      "path": ".privacy/public-baseline.json",
+      "rule": "email",
+      "digest": "289853425b2d588219687ef90bbf28aa7cbb3e7e251f7db079d7eaf7e90fd39d"
+    },
+    {
+      "path": ".privacy/public-baseline.json",
+      "rule": "email",
+      "digest": "289853425b2d588219687ef90bbf28aa7cbb3e7e251f7db079d7eaf7e90fd39d"
+    }
+  ],
+  "public_binary_assets": [
+    {
+      "path": "docs/images/auth-page.png",
+      "sha256": "c4f04ed5dd922fbfeb691b32af9e861b7d21e7587b9aa5555921fefc44f53bd8"
+    },
+    {
+      "path": "docs/images/banner.png",
+      "sha256": "0f3ba91bf9c360109ccad564d8c6bf8f84556d9d43430be33a3e5dd7080cfe75"
+    },
+    {
+      "path": "docs/images/bento-chatlab.png",
+      "sha256": "7b175aa648f7ef4889d4897345b8b30d21a63720d53f04833f73609352d35cd9"
+    },
+    {
+      "path": "docs/images/bento-napcat-qce-python.png",
+      "sha256": "ea6efd9be633c1a951517ba4f7aec5afe1dde73ce7d448cebbcc742eceae7969"
+    },
+    {
+      "path": "docs/images/bento-qce2chatlab.png",
+      "sha256": "c7d2ff0762fadd364f0942b53d09a3c10fc185733cb752351cd1eb98f6f8de86"
+    },
+    {
+      "path": "docs/images/bento-qq-chat-ai-analyzer.png",
+      "sha256": "1791e7df482d19005d492fb6cc02a0af3a1496cf3d437736f0b7cf692eea63e7"
+    },
+    {
+      "path": "docs/images/bento-qqchatanalyzer.png",
+      "sha256": "8d01d8b3b59ded95632b677d087cb573846e7f71de576a1cf81b37efba4fa60f"
+    },
+    {
+      "path": "docs/images/docs-banner.png",
+      "sha256": "6d7bbc2692396a238d1d6e4020acd01415b448147d6ad00798c4f4a6d3f956b6"
+    },
+    {
+      "path": "docs/images/export-button.png",
+      "sha256": "cc7397c441e813fb6f35aa90b076efc2891b137e04ce2bd5faf91a794780ae1f"
+    },
+    {
+      "path": "docs/images/export-settings.png",
+      "sha256": "7dd3604a87c4c9e5fafb09b07d0597dc5dee8a5ef72cf00704ab04aac4c26c21"
+    },
+    {
+      "path": "docs/images/features-1.png",
+      "sha256": "f2bc7ad7748a58eec7f017fe78d74f99721a6efc3742900a5fb92998303b6780"
+    },
+    {
+      "path": "docs/images/features-2.png",
+      "sha256": "4506a266d9f428daf1c7c597bef4541d6e84514344247bad1c0876f46c0a46e4"
+    },
+    {
+      "path": "docs/images/features-3.png",
+      "sha256": "aefef417ab9679f91cc9731e124bb90e424ca0ec6317309ae7ef9a18e99aa699"
+    },
+    {
+      "path": "docs/images/features-4.png",
+      "sha256": "c2d307d1e07eca016eb0d31c35e5c395c951bf9af67a35854de5eb4bfe7f5d40"
+    },
+    {
+      "path": "docs/images/token-help.png",
+      "sha256": "8efca5da5ce6b6f1bde6a28a0725806a4a70907b86430fa8475f06cc28ab45e1"
+    },
+    {
+      "path": "installer/src-tauri/icons/128x128.png",
+      "sha256": "61c460ee322cdbd3f0b4eed6af6591bfde65a1c74d914b8306e45e1636a6f89e"
+    },
+    {
+      "path": "installer/src-tauri/icons/128x128@2x.png",
+      "sha256": "5871467049b2f38cabc88147df92910de5026ee4ba30f691c7184d5e880118f1"
+    },
+    {
+      "path": "installer/src-tauri/icons/32x32.png",
+      "sha256": "516d0510dce1f300c4c85e2ed1fda73875c9f9fcfbf9b913f64dc270c24e397a"
+    },
+    {
+      "path": "installer/src-tauri/icons/icon.ico",
+      "sha256": "7ab5857747b9f7e7ab08c197b4b9efe5a93059eb53871ab607b50f49b79334b1"
+    },
+    {
+      "path": "installer/src-tauri/icons/icon.png",
+      "sha256": "7961146f906a186f9a4e94b6e0cfc8044bb2cd580a2976168ced3f59e176d451"
+    },
+    {
+      "path": "plugins/qq-chat-exporter/icon.png",
+      "sha256": "0c368e965dd879607a26586a1f4bf55d525fa9998378b1c8e09657d957b4acd5"
+    },
+    {
+      "path": "public/assets/home/app/03e796-21.jpg",
+      "sha256": "f730f517c77990df7feffd8be9bcf37bb2cd2c6a9ac8b88e59ea60b77d19a6ad"
+    },
+    {
+      "path": "public/assets/home/app/1c46ed-Geist_Variable-s.p.f19e4721.woff2",
+      "sha256": "46525b05bbf4527d263f8624ca7024c7d0dce3c64430267d30c31c6dd3821e4d"
+    },
+    {
+      "path": "public/assets/home/app/206f6a-1.jpg",
+      "sha256": "c6733e1f315ea427d609079223c5a4bec04575a32060aadbe83891ce270249d7"
+    },
+    {
+      "path": "public/assets/home/app/389ba1-15.jpg",
+      "sha256": "bf36f4c653ef3422e670d8b85cb7d0110d066c9d7eb8d560df1cdb1d900c52e9"
+    },
+    {
+      "path": "public/assets/home/app/4fec7d-GeistMono_Variable.p.73882635.woff2",
+      "sha256": "3ef2c50dc1042ebfa89ca66bb6901e9dde5737970547c21b4de7a44dfb2ab948"
+    },
+    {
+      "path": "public/assets/home/app/5b62b6-24.jpg",
+      "sha256": "0f36098de3e8fc0464c52a7e1db8c6891c06242103244c9e464c324b1d398614"
+    },
+    {
+      "path": "public/assets/home/app/66d721-0.jpg",
+      "sha256": "8fe61739c47a38959b78592782c364b317450c064a71efa8831c73673c670f99"
+    },
+    {
+      "path": "public/assets/home/app/6e4381-5.jpg",
+      "sha256": "b4acc0794d3fc8594bfb741012849b811a5e2c33290d67f6f05a71812b4e914b"
+    },
+    {
+      "path": "public/assets/home/app/7e92a4-13.jpg",
+      "sha256": "2924c2afba621b01362d4b60168ef611d8b890e57e523ba43cce10f1c546f0aa"
+    },
+    {
+      "path": "public/assets/home/app/837d3b-geist-latin.woff2",
+      "sha256": "1b5ebfb3a01a97343ac96873e6d59a8cb285c66012b6a1ac509cb2765e995ba8"
+    },
+    {
+      "path": "public/assets/home/app/94fa32-22.jpg",
+      "sha256": "a1ee100fcb5adb84de37f636348eac8a6cd99f929b18b9b2ae7abdbc03d19874"
+    },
+    {
+      "path": "public/assets/home/app/a6ec66-2.jpg",
+      "sha256": "0934bbe051e2701c4729f417619d17f9c7949863d36978878b966c5d58ee7024"
+    },
+    {
+      "path": "public/assets/home/app/cc5cc1-16.jpg",
+      "sha256": "40d86590bf9755f6adec7f317c2fcf1e18e24ad82ca60181dbb5a2448b72da34"
+    },
+    {
+      "path": "public/assets/home/app/ce1008-17.jpg",
+      "sha256": "0cfbbd4bb0aab8427d97bc14243edf5b44a65ca47f0119c3aa38fc2b754e3ce6"
+    },
+    {
+      "path": "public/assets/home/app/d79f09-6.jpg",
+      "sha256": "6d42e1e89a8377b6af7bd50dacb7f7f4cb9d5e4512c61ca4f29978a5f53326af"
+    },
+    {
+      "path": "public/assets/home/app/e0335c-3.jpg",
+      "sha256": "0743965c4ba09c9168708559b595ecbce0e7b3e444865c44a4dbf08ec05882d4"
+    },
+    {
+      "path": "public/assets/home/app/f6a5e1-g.jpg",
+      "sha256": "2924c2afba621b01362d4b60168ef611d8b890e57e523ba43cce10f1c546f0aa"
+    },
+    {
+      "path": "public/assets/home/chat/av_kurisu.jpg",
+      "sha256": "2924c2afba621b01362d4b60168ef611d8b890e57e523ba43cce10f1c546f0aa"
+    },
+    {
+      "path": "public/assets/home/chat/av_okabe.jpg",
+      "sha256": "6d42e1e89a8377b6af7bd50dacb7f7f4cb9d5e4512c61ca4f29978a5f53326af"
+    },
+    {
+      "path": "public/assets/home/chat/pic_comet.jpg",
+      "sha256": "83dc3e2389919ce496c6653178c8f85bd3581deed6703d53ae57b46aa04a9cdb"
+    },
+    {
+      "path": "public/docs/images/auth-page.png",
+      "sha256": "c4f04ed5dd922fbfeb691b32af9e861b7d21e7587b9aa5555921fefc44f53bd8"
+    },
+    {
+      "path": "public/docs/images/banner.png",
+      "sha256": "0f3ba91bf9c360109ccad564d8c6bf8f84556d9d43430be33a3e5dd7080cfe75"
+    },
+    {
+      "path": "public/docs/images/docs-banner.png",
+      "sha256": "6d7bbc2692396a238d1d6e4020acd01415b448147d6ad00798c4f4a6d3f956b6"
+    },
+    {
+      "path": "public/docs/images/export-button.png",
+      "sha256": "cc7397c441e813fb6f35aa90b076efc2891b137e04ce2bd5faf91a794780ae1f"
+    },
+    {
+      "path": "public/docs/images/export-settings.png",
+      "sha256": "7dd3604a87c4c9e5fafb09b07d0597dc5dee8a5ef72cf00704ab04aac4c26c21"
+    },
+    {
+      "path": "public/docs/images/features-1.png",
+      "sha256": "f2bc7ad7748a58eec7f017fe78d74f99721a6efc3742900a5fb92998303b6780"
+    },
+    {
+      "path": "public/docs/images/features-2.png",
+      "sha256": "4506a266d9f428daf1c7c597bef4541d6e84514344247bad1c0876f46c0a46e4"
+    },
+    {
+      "path": "public/docs/images/features-3.png",
+      "sha256": "aefef417ab9679f91cc9731e124bb90e424ca0ec6317309ae7ef9a18e99aa699"
+    },
+    {
+      "path": "public/docs/images/features-4.png",
+      "sha256": "c2d307d1e07eca016eb0d31c35e5c395c951bf9af67a35854de5eb4bfe7f5d40"
+    },
+    {
+      "path": "public/docs/images/token-help.png",
+      "sha256": "8efca5da5ce6b6f1bde6a28a0725806a4a70907b86430fa8475f06cc28ab45e1"
+    },
+    {
+      "path": "public/favicon.ico",
+      "sha256": "fb549f9e255d93a2e60ea9cf2c1322e2a2a58ebec543acd008bbd6169dbd6f82"
+    },
+    {
+      "path": "qce-v4-tool/app/favicon.ico",
+      "sha256": "fb549f9e255d93a2e60ea9cf2c1322e2a2a58ebec543acd008bbd6169dbd6f82"
+    },
+    {
+      "path": "qce-v4-tool/public/device.png",
+      "sha256": "070bb377a122231db07c7b3ae5fa8cba0ce0b6ba7b48a00d4d26428cdc34542f"
+    },
+    {
+      "path": "qce-v4-tool/public/placeholder-logo.png",
+      "sha256": "d7c39d978af643ba9525de6fb8171e0f834882db4110c82ecad0df3f4f69551a"
+    },
+    {
+      "path": "qce-v4-tool/public/placeholder-user.jpg",
+      "sha256": "22be067d748175598a5e00123902f5c8332dd7f101de03dfb92ec08d85bb5e53"
+    },
+    {
+      "path": "qce-v4-tool/public/placeholder.jpg",
+      "sha256": "14be0c7aa11cca1e78f0966176b286a6d36d00ec64be027775dfeb33d8e2dfdf"
+    },
+    {
+      "path": "qce-v4-tool/public/qce-logo.png",
+      "sha256": "2c5485a847a5a6cb42821b58f3d84640e756525884b549a51d0eab9174d010bb"
+    },
+    {
+      "path": "qce-v4-tool/public/text-full-logo.png",
+      "sha256": "43976ec21570ad85785810f08c08bcb80ee2581d6cd50af2cd13a92e4515d351"
+    },
+    {
+      "path": "qce-v4-tool/public/text-logo.png",
+      "sha256": "44ea969fb1e0e98e0107b128fda76d560808915a224c868003197530a3c9759c"
+    },
+    {
+      "path": "uninstaller/src-tauri/icons/128x128.png",
+      "sha256": "61c460ee322cdbd3f0b4eed6af6591bfde65a1c74d914b8306e45e1636a6f89e"
+    },
+    {
+      "path": "uninstaller/src-tauri/icons/128x128@2x.png",
+      "sha256": "5871467049b2f38cabc88147df92910de5026ee4ba30f691c7184d5e880118f1"
+    },
+    {
+      "path": "uninstaller/src-tauri/icons/32x32.png",
+      "sha256": "516d0510dce1f300c4c85e2ed1fda73875c9f9fcfbf9b913f64dc270c24e397a"
+    },
+    {
+      "path": "uninstaller/src-tauri/icons/icon.ico",
+      "sha256": "7ab5857747b9f7e7ab08c197b4b9efe5a93059eb53871ab607b50f49b79334b1"
+    },
+    {
+      "path": "uninstaller/src-tauri/icons/icon.png",
+      "sha256": "7961146f906a186f9a4e94b6e0cfc8044bb2cd580a2976168ced3f59e176d451"
+    }
+  ],
+  "additional_public_sources": [],
+  "retained_upstream_sources": [
+    {
+      "path": "public/assets/vendor/paper-shaders-0.0.77.js",
+      "sha256": "93faa47795ada83cf7cf87cecb04eb7da910931c7b13ba0883c0de85188388bc"
+    },
+    {
+      "path": "public/dist/qce-history.bundle.js",
+      "sha256": "fdeebbc89255153d37edf34277cce433f3aed1d0bb2da8d522b6c230191bf608"
+    },
+    {
+      "path": "public/dist/qce-pro.bundle.js",
+      "sha256": "bd67719f73a75a82956c72b5f46de94720240936a987bf4c3b865d58cf95b8b7"
+    },
+    {
+      "path": "qce-v4-tool/public/assets/vendor/paper-shaders-0.0.77.js",
+      "sha256": "93faa47795ada83cf7cf87cecb04eb7da910931c7b13ba0883c0de85188388bc"
+    }
+  ]
+}
